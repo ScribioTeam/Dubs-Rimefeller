@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilPipeVisibility.label>Visibilité du pipeline</OilPipeVisibility.label>
+  <CrudeToFuelRatio.label>Ratio carburant / brut</CrudeToFuelRatio.label>
+  <OilPumpCapacity.label>Capacité des puits de pétrole</OilPumpCapacity.label>
+  <OilGridCapacity.label>Limite de déversement d'hydrocarbures par cellule</OilGridCapacity.label>
+</LanguageData>

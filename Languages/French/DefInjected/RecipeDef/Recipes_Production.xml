@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Make_Napalm.label>制作凝固汽油</Make_Napalm.label>
-  <Make_Napalm.description>通过混合化学燃料和聚乙烯来制作凝固汽油.</Make_Napalm.description>
+  <Make_Napalm.label>faire du Napalm</Make_Napalm.label>
+  <Make_Napalm.description>Faire un lot de napalm en mélangeant du combustible chimique et du synthylène. </Make_Napalm.description>
   <Make_Napalm.jobString>制作凝固汽油.</Make_Napalm.jobString>
 
   <Make_ComponentIndustrialPlastic.label>制作聚乙烯塑料零件</Make_ComponentIndustrialPlastic.label>
