@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Duplicated] <OilWellHead.label>Oil Well Head</OilWellHead.label>-->
+  <!--[Duplicated] <OilWellHead.description>Abandoned oil well, when left unused the pressure will rise back to full over time. Place a derrick directly over the well to continue using it</OilWellHead.description>-->
+
+  <OilWellHead.label>Tête de puits de pétrole</OilWellHead.label>
+  <OilWellHead.description>Puits de pétrole abandonné, une fois utilisé, la pression reviendra à son maximum avec le temps. Placez un derrick directement sur le puits pour continuer à l'utiliser</OilWellHead.description>
+  
+  <OilWellHead.label>Tête de puits de pétrole</OilWellHead.label>
+  <OilWellHead.description>Puits de pétrole abandonné, une fois utilisé, la pression reviendra à son maximum avec le temps. Placez un derrick directement sur le puits pour continuer à l'utiliser</OilWellHead.description>
+
+  <OilWell.label>Puits de pétrole</OilWell.label>
+  <OilWell.description>Extrait le pétrole des réservoirs souterrains, nécessite une console de ressources pour voir la grille de pétrole</OilWell.description>
+  <OilWell_Blueprint.label>Puits de pétrole (Plan)</OilWell_Blueprint.label>
+  <OilWell_Frame.label>Puits de pétrole (En cours de construction)</OilWell_Frame.label>
+  <OilWell_Frame.description>Extrait le pétrole des réservoirs souterrains, nécessite une console de ressources pour voir la grille de pétrole</OilWell_Frame.description>
+
+  <DeepOilWell.label>Puits de pétrole profond</DeepOilWell.label>
+  <DeepOilWell.description>Extrait le pétrole des réservoirs souterrains, nécessite un radar au sol pour voir la grille de pétrole profonde</DeepOilWell.description>
+  <DeepOilWell_Blueprint.label>Puits de pétrole profond (Plan)</DeepOilWell_Blueprint.label>
+  <DeepOilWell_Frame.label>Puits de pétrole profond(En cours de construction)</DeepOilWell_Frame.label>
+  <DeepOilWell_Frame.description>Extrait le pétrole des réservoirs souterrains, nécessite un radar au sol pour voir la grille de pétrole profonde</DeepOilWell_Frame.description>
+
+  <OilStorage.label>Stockage de pétrole brut</OilStorage.label>
+  <OilStorage.description>Stocke le pétrole brut des puits.</OilStorage.description>
+  <OilStorage_Blueprint.label>Stockage de pétrole brut (Plan)</OilStorage_Blueprint.label>
+  <OilStorage_Frame.label>Stockage de pétrole brut (En cours de construction)</OilStorage_Frame.label>
+  <OilStorage_Frame.description>Stocke le pétrole brut des puits</OilStorage_Frame.description>
+
+  <FuelStorage.label>Stockage de Chemfuel</FuelStorage.label>
+  <FuelStorage.description>Stocke les combustibles chimiques produits par les craquers bruts, ces derniers peuvent être pompés vers des trémies de chemfuel connectées</FuelStorage.description>
+  <FuelStorage_Blueprint.label>Stockage de Chemfuel (Plan)</FuelStorage_Blueprint.label>
+  <FuelStorage_Frame.label>Stockage de Chemfuel (En cours de construction)</FuelStorage_Frame.label>
+  <FuelStorage_Frame.description>Stocke les combustibles chimiques produits par les craquers bruts, ces derniers peuvent être pompés vers des trémies de chemfuel connectées</FuelStorage_Frame.description>
+  
+  <ResourceConsole.label>Console de ressources</ResourceConsole.label>
+  <ResourceConsole.description>Une console d'ordinateur avec équipage est nécessaire pour exploiter des craquelins et des raffineries</ResourceConsole.description>
+  <ResourceConsole_Blueprint.label>Console de ressources (Plan)</ResourceConsole_Blueprint.label>
+  <ResourceConsole_Frame.label>Console de ressources (En cours de construction)</ResourceConsole_Frame.label>
+  <ResourceConsole_Frame.description>Une console d'ordinateur avec équipage est nécessaire pour exploiter des craquelins et des raffineries</ResourceConsole_Frame.description>
+  
+  <CrudeCracker.label>Cracker brut</CrudeCracker.label>
+  <CrudeCracker.description>Fissure le pétrole brut en chemfuel qui doit être stocké dans des réservoirs de chemfuel connectés, le chemfuel peut être pompé vers des trémies de chemfuel connectées</CrudeCracker.description>
+  <CrudeCracker_Blueprint.label>Cracker brut (Plan)</CrudeCracker_Blueprint.label>
+  <CrudeCracker_Frame.label>Cracker brut (En cours de construction)</CrudeCracker_Frame.label>
+  <CrudeCracker_Frame.description>Fissure le pétrole brut en chemfuel qui doit être stocké dans des réservoirs de chemfuel connectés, le chemfuel peut être pompé vers des trémies de chemfuel connectées</CrudeCracker_Frame.description>
+  
+  <FuelPowerplant.label>centrale électrique à Chemfuel</FuelPowerplant.label>
+  <FuelPowerplant.description>Produit de l'énergie en consommant du chemfuel. Doit être canalisé dans des réservoirs de stockage de Chemfuel.</FuelPowerplant.description>
+  <FuelPowerplant_Blueprint.label>centrale électrique à Chemfuel (Plan)</FuelPowerplant_Blueprint.label>
+  <FuelPowerplant_Frame.label>centrale électrique à Chemfuel (En cours de construction)</FuelPowerplant_Frame.label>
+  <FuelPowerplant_Frame.description>Produit de l'énergie en consommant du chemfuel. Doit être canalisé dans des réservoirs de stockage de Chemfuel.</FuelPowerplant_Frame.description>
+
+
+</LanguageData>

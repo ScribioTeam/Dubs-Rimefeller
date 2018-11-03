@@ -1,41 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <OilDrilling.label>开采石油</OilDrilling.label>
-  <OilDrilling.description>石油开采中.</OilDrilling.description>
+  <OilDrilling.label>Forage du pétrole</OilDrilling.label>
+  <OilDrilling.description>Forer des puits de pétrole, c'est le début de l'Or Noir.</OilDrilling.description>
 
-  <DeepOilWells.label>深油井</DeepOilWells.label>
-  <DeepOilWells.description>钻得更深的井以进入新的油田.</DeepOilWells.description>
+  <DeepOilWells.label>Puits profonds</DeepOilWells.label>
+  <DeepOilWells.description>Forer des puits plus profonds pour accéder à de nouveaux plus grands réservoirs de pétrole.</DeepOilWells.description>
 
-  <ChemfuelRefining.label>精炼燃油</ChemfuelRefining.label>
-  <ChemfuelRefining.description>将原油提炼成化学燃料，储存在化学燃料罐中.</ChemfuelRefining.description>
+  <ChemfuelRefining.label>Raffinage en chemfuel</ChemfuelRefining.label>
+  <ChemfuelRefining.description>Affiner le pétrole brut en chemfuel liquide, destiné à être stocké dans des réservoirs.</ChemfuelRefining.description>
 
-  <NeutroamineProduction.label>中性胺</NeutroamineProduction.label>
-  <NeutroamineProduction.description>从储存的化学燃料中产生中性胺，用于制造药物</NeutroamineProduction.description>
+  <NeutroamineProduction.label>Neutroamine</NeutroamineProduction.label>
+  <NeutroamineProduction.description>Produire de la neutroamine à partir de chemfuel liquide, utilisé pour la fabrication de médicaments</NeutroamineProduction.description>
 
-  <SynthyleneProduction.label>聚乙烯塑料</SynthyleneProduction.label>
-  <SynthyleneProduction.description>从储存的化学燃料中生产可以选择颜色的通用的聚乙烯塑料作为建筑材料</SynthyleneProduction.description>
+  <SynthyleneProduction.label>Synthylène</SynthyleneProduction.label>
+  <SynthyleneProduction.description>Produire l'un des matériaux de construction générique : Le synthylène. Avec de multiples couleurs disponible ! Il se produit à partir de Chemfuel liquide.</SynthyleneProduction.description>
 
-  <Napalm.label>凝固汽油</Napalm.label>
-  <Napalm.description>高度易燃的凝固汽油，由化学燃料和聚乙烯增稠</Napalm.description>
+  <Napalm.label>Napalm</Napalm.label>
+  <Napalm.description>Gelée collante hautement inflammable utilisée dans les bombes incendiaires, composée de chemfuel liquide, épaissi avec du synthylène</Napalm.description>
 
-  <ArtificialFloors.label>人造地板</ArtificialFloors.label>
-  <ArtificialFloors.description>用聚乙烯塑料制造人造地板 </ArtificialFloors.description>
+  <ArtificialFloors.label>Lino</ArtificialFloors.label>
+  <ArtificialFloors.description>Produire du lino en synthylène</ArtificialFloors.description>
 
-  <SynthyleneComponents.label>聚乙烯塑料零件</SynthyleneComponents.label>
-  <SynthyleneComponents.description>用聚乙烯塑料和钢铁制作零件，扩展你钢铁的库存</SynthyleneComponents.description>
+  <SynthyleneComponents.label>Composants en synthylène</SynthyleneComponents.label>
+  <SynthyleneComponents.description>Étendez vos réserves d’acier en fabriquant des composants avec un mélange de synthylène et d’acier</SynthyleneComponents.description>
 
-  <SynthreadProduction.label>合成纤维</SynthreadProduction.label>
-  <SynthreadProduction.description>由化合燃料生产合成纤维</SynthreadProduction.description>
+  <SynthreadProduction.label>Synthétique</SynthreadProduction.label>
+  <SynthreadProduction.description>Produire du synthétique à base de chemfuel liquide</SynthreadProduction.description>
 
-  <SynthamideProduction.label>合成酰胺纤维</SynthamideProduction.label>
-  <SynthamideProduction.description>合成酰胺纤维，合成酰胺纤维是耐热的和强韧的合成纤维，可用于制造非常耐用的衣物。</SynthamideProduction.description>
+  <SynthamideProduction.label>Synthamide</SynthamideProduction.label>
+  <SynthamideProduction.description>Produire de la synthamide, les fibres de la synthamide sont des fibres synthétiques résistantes à la chaleur et robustes, elles peuvent être utilisées pour créer des vêtements très durables.</SynthamideProduction.description>
 
-  <SynthamideCompositeProduction.label>合成酰胺复合材料</SynthamideCompositeProduction.label>
-  <SynthamideCompositeProduction.description>生产合成酰胺复合材料，一种高强度轻量防火隔离技术复合材料，由合成酰胺与复合材料制成。</SynthamideCompositeProduction.description>
+  <SynthamideCompositeProduction.label>Synthamide Composite</SynthamideCompositeProduction.label>
+  <SynthamideCompositeProduction.description>Produire de la Synthamide Composite, un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide</SynthamideCompositeProduction.description>
 
-  <PlasteelProduction.label>塑钢</PlasteelProduction.label>
-  <PlasteelProduction.description>发现制造高强度复合材料塑钢的秘诀</PlasteelProduction.description>
+  <PlasteelProduction.label>Plastacier</PlasteelProduction.label>
+  <PlasteelProduction.description>Découvrez les secrets de la fabrication du Plastacier</PlasteelProduction.description>
+  
+  <HyperweaveProduction.label>Hyperfibre</HyperweaveProduction.label>
+  <HyperweaveProduction.description>Découvrez les secrets de la fabrication de l'hyperfibre</HyperweaveProduction.description>
 
 
 </LanguageData>

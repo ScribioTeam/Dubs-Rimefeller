@@ -1,21 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <EmptyAutoclave.label>清空高压处理罐</EmptyAutoclave.label>
-  <EmptyAutoclave.verb>清空高压处理罐</EmptyAutoclave.verb>
-  <EmptyAutoclave.gerund>清空高压处理罐中</EmptyAutoclave.gerund>
+  <EmptyAutoclave.label>Autoclave vide</EmptyAutoclave.label>
+  <EmptyAutoclave.verb>Vider l'autoclave</EmptyAutoclave.verb>
+  <EmptyAutoclave.gerund>Vide l'autoclave</EmptyAutoclave.gerund>
 
-  <FillAutoclave.label>填充高压处理罐</FillAutoclave.label>
-  <FillAutoclave.verb>填充高压处理罐</FillAutoclave.verb>
-  <FillAutoclave.gerund>填充高压处理罐ing</FillAutoclave.gerund>
+  <FillAutoclave.label>Autoclave plein</FillAutoclave.label>
+  <FillAutoclave.verb>Remplir l'autoclave</FillAutoclave.verb>
+  <FillAutoclave.gerund>Rempli l'autoclave</FillAutoclave.gerund>
 
-  <CleanOil.label>清理石油</CleanOil.label>
-  <CleanOil.verb>清理石油</CleanOil.verb>
-  <CleanOil.gerund>正在清理石油</CleanOil.gerund>
+  <CleanOil.label>Pétrole Propre</CleanOil.label>
+  <CleanOil.verb>Nettoyer le pétrole</CleanOil.verb>
+  <CleanOil.gerund>Nettoie le pétrole</CleanOil.gerund>
 
-  <SuperviseDrilling.label>管理钻井</SuperviseDrilling.label>
-  <SuperviseDrilling.verb>管理</SuperviseDrilling.verb>
-  <SuperviseDrilling.gerund>管理ing</SuperviseDrilling.gerund>
+  <SuperviseDrilling.label>Forage superviser</SuperviseDrilling.label>
+  <SuperviseDrilling.verb>Superviser le forage</SuperviseDrilling.verb>
+  <SuperviseDrilling.gerund>Supervise le forage</SuperviseDrilling.gerund>
 
+  <OperateResourceConsole.label>Console de ressources Utiliser</OperateResourceConsole.label>
+  <OperateResourceConsole.verb>Utiliser la console de ressources</OperateResourceConsole.verb>
+  <OperateResourceConsole.gerund>Utilise la console de ressources</OperateResourceConsole.gerund>
 
 </LanguageData>
