@@ -61,10 +61,6 @@
   <UncuredComposite.label>Composite de synthamide non polymérisé</UncuredComposite.label>
   <UncuredComposite.description>Synthamide Composite non polymérisé, nécessite un durcissement dans un autoclave.</UncuredComposite.description>
 
-  <!--[Duplicated] <FiberComposite.label>Synthamide composite</FiberComposite.label>-->
-  <!--[Duplicated] <FiberComposite.description>La synthamide composite un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide. </FiberComposite.description>-->
-  <!--[Duplicated] <FiberComposite.stuffProps.stuffAdjective>Synthamide Composite</FiberComposite.stuffProps.stuffAdjective>-->
-
   <FiberComposite.label>Synthamide composite</FiberComposite.label>
   <FiberComposite.description>La synthamide composite un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide.</FiberComposite.description>
   <FiberComposite.stuffProps.stuffAdjective>Synthamide composite</FiberComposite.stuffProps.stuffAdjective>

@@ -2,16 +2,11 @@
 <LanguageData>
 
   <OilSpill.label>Marée noire</OilSpill.label>
-  <OilDrilling.letterLabel>Marée noire</OilDrilling.description>
+  <OilDrilling.description>Marée noire</OilDrilling.description>
   <OilDrilling.letterText>Un tronçon de pipeline s'est rompu et du pétrole s'est déversé. Le pétrole peut être nettoyé à l'aide de l'indicateur de pétrole propre.</OilDrilling.description>
 
   <DrillQuake.label>Tremblements</DrillQuake.label>
   <DrillQuake.letterLabel>Tremblements</DrillQuake.description>
   <DrillQuake.letterText>Les forages pétroliers excessifs ont provoqué l'instabilité du sol</DrillQuake.description>
-  
-  <!--<RefineryExplosion.label>Explosion</RefineryExplosion.label>--!>
-  <!--<RefineryExplosion.letterLabel>Explosion!</RefineryExplosion.description>--!>
-  <!--<RefineryExplosion.letterText>Un craker brut a explosé dans une boule de feu géante</RefineryExplosion.description>--!>
-  
   
 </LanguageData>
