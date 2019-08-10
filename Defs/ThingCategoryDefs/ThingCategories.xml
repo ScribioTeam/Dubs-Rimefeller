@@ -8,4 +8,14 @@
     <iconPath>Rimefeller/Things/Resource/OilBarrel</iconPath>
   </ThingCategoryDef>
 
+  <StuffCategoryDef>
+    <defName>Plastic</defName>
+    <label>Plastic</label>
+  </StuffCategoryDef>
+  
+  <StuffCategoryDef>
+    <defName>Composite</defName>
+    <label>Composite</label>
+  </StuffCategoryDef>
+
 </Defs>

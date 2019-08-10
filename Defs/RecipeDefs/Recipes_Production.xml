@@ -1,6 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
+  
+  <RecipeDef>
+    <defName>Make_RefiningStub</defName>
+    <label>RefiningStub</label>
+    <description>bah</description>
+    <recipeUsers>
+      <li>ResourceConsole</li>
+    </recipeUsers>
+    <jobString></jobString>
+    <effectWorking></effectWorking>
+    <soundWorking></soundWorking>
+    <workAmount>1000</workAmount>
+    <workSpeedStat></workSpeedStat>
+    <ingredients>
+    </ingredients>
+    <fixedIngredientFilter>
+    </fixedIngredientFilter>
+    <products>
+    </products>
+  </RecipeDef>
+  
   <RecipeDef>
     <defName>Make_Napalm</defName>
     <label>make Napalm</label>
@@ -87,6 +107,55 @@
 		<skillRequirements>
 			<Crafting>8</Crafting>
 		</skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <researchPrerequisite>SynthyleneComponents</researchPrerequisite>
+    <recipeUsers>
+      <li>FabricationBench</li>
+    </recipeUsers>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>Make_ComponentIndustrialPlasticX5</defName>
+    <label>make synthylene component x5</label>
+    <description>Make a component.</description>
+    <jobString>Making component.</jobString>
+    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>20000</workAmount>
+    <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+      <li>
+        <filter>
+          <categories>
+            <li>Synthylene</li>
+          </categories>
+        </filter>
+        <count>60</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+      <categories>
+        <li>Synthylene</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <ComponentIndustrial>5</ComponentIndustrial>
+    </products>
+    <skillRequirements>
+      <Crafting>8</Crafting>
+    </skillRequirements>
     <workSkill>Crafting</workSkill>
     <researchPrerequisite>SynthyleneComponents</researchPrerequisite>
     <recipeUsers>
@@ -209,5 +278,4 @@
       <li>FabricationBench</li>
     </recipeUsers>
   </RecipeDef>
-
 </Defs>
