@@ -119,5 +119,11 @@
 
   <Lino_FlagstoneMarble.label>Lino en dalle de marbre</Lino_FlagstoneMarble.label>
   <Lino_FlagstoneMarble.description>Sol en lino</Lino_FlagstoneMarble.description>
-
+  
+  <Wood_ParquetHerring.label>Parquet à chevrons</Wood_ParquetHerring.label>
+  <Wood_ParquetHerring.description>Plancher en bois pour une sensation chaleureuse. Bien qu'il soit rapide à poser, il est également très inflammable.</Wood_ParquetHerring.description>
+  
+  <Wood_ParquetVersailles.label>Parquet "Versailles"</Wood_ParquetVersailles.label>
+  <Wood_ParquetVersailles.description>Plancher en bois pour une sensation chaleureuse. Bien qu'il soit rapide à poser, il est également très inflammable.</Wood_ParquetVersailles.description>
+  
 </LanguageData>

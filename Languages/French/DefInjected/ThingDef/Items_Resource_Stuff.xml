@@ -3,7 +3,11 @@
 
   <Napalm.label>Napalm</Napalm.label>
   <Napalm.description>Gelée collante hautement inflammable utilisée dans les bombes incendiaires, composée de Chemfuel épaissi avec du synthylène.</Napalm.description>
-
+  
+  <Shell_Napalm.label>Obus de Napalm</Shell_Napalm.label>
+  <Shell_Napalm.description>Une coquille remplie de gel inflammable et d'une petite charge explosive. Commence des feux lors de l'explosion. Peut être tiré à partir de mortiers. Explose lorsqu'il est endommagé.</Shell_Napalm.description>
+  <Bullet_Shell_Napalm.label>Obus de Napalm</Bullet_Shell_Napalm.label>
+   
   <OilBarrel.label>Baril de pétrole</OilBarrel.label>
   <OilBarrel.description>Un baril rempli de pétrole brut, peut être vidé, brûlé ou traité.</OilBarrel.description>
 
@@ -104,6 +108,5 @@
   <FiberCompositeSand.label>Synthamide composite sable</FiberCompositeSand.label>
   <FiberCompositeSand.description>La synthamide composite un matériau composite "space-tech" ultra badasse, Très duable et résistant au feu, de poids léger, constitué d’une matrice de synthylène renforcée avec des fibres de synthamide.</FiberCompositeSand.description>
   <FiberCompositeSand.stuffProps.stuffAdjective>Synthamide composite sable</FiberCompositeSand.stuffProps.stuffAdjective>
-
-
+  
 </LanguageData>
