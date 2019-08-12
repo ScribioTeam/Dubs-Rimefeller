@@ -27,8 +27,5 @@
     
   <FuelPowerplant.label>centrale électrique à Chemfuel</FuelPowerplant.label>
   <FuelPowerplant.description>Produit de l'énergie en consommant du chemfuel. Doit être canalisé dans des réservoirs de stockage de Chemfuel.</FuelPowerplant.description>
- 
-  <OilWellHead.label>Tête de puits de pétrole</OilWellHead.label>
-  <OilWellHead.description>Puits de pétrole abandonné, une fois utilisé, la pression reviendra à son maximum avec le temps. Placez un derrick directement sur le puits pour continuer à l'utiliser</OilWellHead.description>
- 
+  
 </LanguageData>
