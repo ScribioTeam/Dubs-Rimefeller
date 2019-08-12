@@ -11,6 +11,7 @@
   <OilWell.description>Extrait le pétrole des réservoirs souterrains, nécessite une console de ressources pour voir la grille de pétrole</OilWell.description>
   <OilWell.comps.CompRefuelable.fuelLabel>Acier pour tuyau</OilWell.comps.CompRefuelable.fuelLabel>
   <OilWell.comps.CompRefuelable.outOfFuelMessage>Ne peut pas creuser: Besoin de plus de tuyau</OilWell.comps.CompRefuelable.outOfFuelMessage>
+  <OilWell.comps.CompRefuelable.fuelGizmoLabel>Stockage des tuyau</OilWell.comps.CompRefuelable.fuelGizmoLabel>
   
   <DeepOilWell.label>Puits de pétrole profond</DeepOilWell.label>
   <DeepOilWell.description>Extrait le pétrole des réservoirs souterrains, nécessite un radar au sol pour voir la grille de pétrole profonde</DeepOilWell.description>
